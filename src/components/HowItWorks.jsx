@@ -34,7 +34,7 @@ const HowItWorks = () => {
       <div>
         <h1 className='flex text-center md:justify-center md:px-120 px-20 md:text-2xl font-semibold my-10 md:mt-10'>Complies with the highest standards of quality and data security</h1>
         <p className='flex text-center justify-center text-lg opacity-70 mx-auto my-5'>Please Note: Your data is confidential and secured by: </p>
-        <img src="../public/images/ndpcLogo.png" alt="NDPC logo" className='mx-auto w-50 h-50 my-7' />
+        <img src="/images/ndpcLogo.png" alt="NDPC logo" className='mx-auto w-50 h-50 my-7' />
         <h1 className='text-xl text-center font-semibold mb-5'>NDPC</h1>
       </div>
       <footer className='bg-green-900 text-white p-10 md:flex md:flex-row md:justify-evenly md:py-20 md:align-center'>
