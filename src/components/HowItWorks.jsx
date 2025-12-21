@@ -66,7 +66,7 @@ const HowItWorks = () => {
            </ul>
           </div>
         </div>
-        <div className='flex flex-col-2 md:flex-row md:justify-evenly md:gap-20 md:align-center justify-between my-10 md:my-0'>
+        <div className='flex flex-col-2 md:flex-row md:justify-evenly md:gap-20 gap-10 md:align-center justify-between my-10 md:my-0'>
           <div className=''>
             <h1 className='text-lg font-semibold opacity-80' >Security</h1>
             <ul className='list-none '>
