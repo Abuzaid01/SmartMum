@@ -26,7 +26,7 @@ const Hero = () => {
             guidance, and trusted advice directly on WhatsApp.
           </p>
 
-          <a href="{whatsappURL}" target="_blank"
+          <a href="https://wa.me/2348100868080?text=Hello%20I%20am%20interested" target="_blank"
       rel="noopener noreferrer" className="mt-6 flex items-center justify-center gap-3 self-center sm:self-start rounded-xl bg-green-700 px-6 py-3 text-lg font-semibold text-white hover:opacity-90"
           >
             <FaWhatsapp className="size-6" />
