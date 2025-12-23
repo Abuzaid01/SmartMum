@@ -12,7 +12,7 @@ const Services = () => {
         <div className=" flex flex-col justify-center items-center text-center rounded-2xl border bg-white mx-10 p-5 border-none shadow-2xl overflow-hidden ">
           <div className="flex flex-row relative justify-center text-center items-center mx-auto">
             
-          <div className=" flex justify-center align-center text-center w-23 h-23 absolute sm:-top-13 -top-13 sm:-right-50 -right-40 bg-green-700 opacity-90 rounded-full "><FaArrowUpRightFromSquare className="flex absolute left-8 bottom-6 size-5 text-white text-center justify-center align-center " /></div>
+          <div className=" flex justify-center align-center text-center w-23 h-23 absolute sm:-top-13 -top-13 sm:-right-50 -right-40 bg-green-700 opacity-90 rounded-full "><FaArrowUpRightFromSquare className="flex absolute left-5 bottom-6 size-5 text-white text-center justify-center align-center " /></div>
           <div className="flex justify-center items-center text-center mx-auto text-green-700">
           <AiOutlineMessage className="flex justify-center align-center text-center size-11" />
            </div>
@@ -24,7 +24,7 @@ const Services = () => {
         <div className=" flex flex-col justify-center items-center text-center rounded-2xl border bg-white mx-10 p-5 border-none shadow-2xl overflow-hidden ">
           <div className="flex flex-row relative justify-center text-center items-center mx-auto">
             
-          <div className=" flex justify-center align-center text-center w-23 h-23 absolute sm:-top-13 -top-13 sm:-right-50 -right-40 bg-green-700 opacity-90 rounded-full "><FaArrowUpRightFromSquare className="flex absolute left-8 bottom-6 size-5 text-white text-center justify-center align-center " /></div>
+          <div className=" flex justify-center align-center text-center w-23 h-23 absolute sm:-top-13 -top-13 sm:-right-50 -right-40 bg-green-700 opacity-90 rounded-full "><FaArrowUpRightFromSquare className="flex absolute left-5 bottom-6 size-5 text-white text-center justify-center align-center " /></div>
           <div className="flex justify-center items-center text-center mx-auto text-green-700">
           <MdOutlineCalendarMonth className="flex justify-center align-center text-center size-11" />
            </div>
@@ -36,7 +36,7 @@ const Services = () => {
         <div className=" flex flex-col justify-center items-center text-center rounded-2xl border bg-white mx-10 p-5 border-none shadow-2xl overflow-hidden ">
           <div className="flex flex-row relative justify-center text-center items-center mx-auto">
             
-          <div className=" flex justify-center align-center text-center w-23 h-23 absolute sm:-top-13 -top-13 sm:-right-50 -right-40 bg-green-700 opacity-90 rounded-full "><FaArrowUpRightFromSquare className="flex absolute left-8 bottom-6 size-5 text-white text-center justify-center align-center " /></div>
+          <div className=" flex justify-center align-center text-center w-23 h-23 absolute sm:-top-13 -top-13 sm:-right-50 -right-40 bg-green-700 opacity-90 rounded-full "><FaArrowUpRightFromSquare className="flex absolute left-5 bottom-6 size-5 text-white text-center justify-center align-center " /></div>
           <div className="flex justify-center items-center text-center mx-auto text-green-700">
           <RiChatPrivateLine className="flex justify-center align-center text-center size-11" />
            </div>
